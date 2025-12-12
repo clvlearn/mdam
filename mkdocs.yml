@@ -50,6 +50,11 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Niveauselectie: niveauselectie.md
+  - HAVO 3:
+    - Boekopdrachten: havo3/boekopdrachten.md
+    - Leesvaardigheid: havo3/leesvaardigheid.md
+    - Cursus 7 Spelling: havo3/cursus-7-spelling.md
   - About: about.md
 
 repo_name: clvlearn/mdam
